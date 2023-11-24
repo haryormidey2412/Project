@@ -1,0 +1,21 @@
+h6 { 
+    background-color: green;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    border-top:70px solid brown;
+    border-right: 50px double green;
+    border-bottom: 50px inset blueviolet;
+    border-left: 50px solid pink;
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 20px 20px 30px cadetblue;
+    width: fit-content;
+}
+p {
+    text-align: center;
+}

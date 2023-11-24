@@ -1,0 +1,21 @@
+form{
+    background-color: blueviolet;
+    width: 500px;
+    height: 300px;
+    text-align: left;
+    background-image: url(img/pexel.png);
+
+}
+input{
+        padding: 10px;
+        margin: 20px;
+        border: none;
+        outline: none;
+        width: 400px;
+        background-color: rgba(0,25,0,0.5);
+        box-shadow: inset 0px 0px 20px indigo;
+        border-radius: 100px 100px;
+    }
+    p  {
+        text-align: center;
+    }
